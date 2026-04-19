@@ -1,9 +1,10 @@
-#Environnement virtuel
+
+# Environnement virtuel
 venv/
 env/
 .venv/
 
-#Python
+# Python
 __pycache__/
 *.pyc
 *.pyo
@@ -15,9 +16,7 @@ __pycache__/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Modeles et donnees volumineuses
-
-models/*.pkl
+# Données intermédiaires (pas le modèle final)
 data/processed/*.csv
 
 # IDE
@@ -29,6 +28,5 @@ data/processed/*.csv
 .DS_Store
 Thumbs.db
 
-
-#Streamlit
+# Streamlit
 .streamlit/secrets.toml
