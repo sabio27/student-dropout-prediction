@@ -1,6 +1,6 @@
-# Techno IA - Prediction  du risque d'abandon scolaire
+# Prediction  du risque d'abandon scolaire
 
-Mini-projet de %achine Learning : Classification binaire predisant la reussite scolaire
+Mini-projet de Machine Learning : Classification binaire predisant la reussite scolaire
 
 ## Structure du projet
 Techno_IA_Proj/
@@ -42,12 +42,3 @@ streamlit run app/streamlit_app.py
 - Random Forest
 - Support Vector Machine
 
-## Auteur
-
-Sabio — *numéro WhatsApp à compléter*
--Support Vector Machine 
-
-## Auteur
-
-Koffi Koffi Ambroise
-Numero WhatsApp : +225 05 44 80 17 44
