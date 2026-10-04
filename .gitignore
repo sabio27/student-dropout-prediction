@@ -30,3 +30,9 @@ Thumbs.db
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Eviter la reproductibilite
+*.pdf
+~$*
+*.tmp
+.sixth/
